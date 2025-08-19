@@ -10,5 +10,5 @@ Also project has different localizations using i18n. All translations can be fou
 
 'SegmentPage' has an information and shows all components of this instance.
 
-'SegmentBuilder' works in two modes - add and edit. It allows to create new or edit existing instance bu using library of components and drug and drop functionality.
-Clicking on each component opens special tab, where each component can be modified. Components are united in groups. Everything can be changed by places by drug and drop, modified, cloned or deleted.
+'SegmentBuilder' works in two modes - add and edit. It allows to create new or edit existing instance buy using library of components and drag and drop functionality.
+Clicking on each component opens special tab, where each component can be modified. Components are united in groups. Everything can be changed by places by drag and drop, modified, cloned or deleted.
