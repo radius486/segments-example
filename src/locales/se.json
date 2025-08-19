@@ -1,0 +1,97 @@
+{
+  "segments": {
+    "title-segments": "Segment",
+    "search-title": "Filtrera och hitta din målgrupp",
+    "search-placeholder": "Sök",
+    "btn-segment-builder": "Segmentbyggare",
+    "btn-back-to-insights": "Tillbaka",
+    "btn-back-to-segments": "Tillbaka till Segment",
+    "btn-segment-edit": "Redigera Segment",
+    "btn-segment-delete": "Radera Segment",
+    "btn-view-profiles": "Visa Profiler",
+    "btn-calculate-profiles": "Beräkna profiler",
+    "segment-name": "Segmentnamn",
+    "created": "Skapad",
+    "count-updated": "Antal profiler uppdaterades senast",
+    "profiles": "Profiler",
+    "segment-page": {
+      "title": "Segmentöversikt",
+      "participants-dialog": {
+        "title": "Profiler i detta segment",
+        "id-header": "ID",
+        "firstname-header": "Förnamn",
+        "lastname-header": "Efternamn",
+        "created-header": "Skapad datum",
+        "email-header": "E-post",
+        "status-header": "Status"
+      }
+    },
+    "segment-builder": {
+      "id": "ID",
+      "title-segment-builder": "Segmentnamn",
+      "btn-save": "Spara",
+      "btn-rename": "Byt namn",
+      "btn-cancel": "Avbryt",
+      "btn-add-group": "Lägg till Grupp",
+      "segmented-profiles": "Profiler",
+      "segmented-profiles-tooltip": "Profiler inkluderade i segmentet",
+      "group": "Grupp",
+      "and": "Och",
+      "or": "Eller",
+      "undefined": "Odefinierad",
+      "drop-here": "Släpp här",
+      "delete-confirmation": {
+        "title": "Bekräfta borttagning",
+        "body": "Detta kommer att ta bort segment med namn:",
+        "confirmation": "Är du säker på att du vill ta bort detta segment?",
+        "decline": "Avbryt",
+        "confirm": "Radera"
+      },
+      "library": {
+        "library": "Bibliotek",
+        "search-placeholder": "Sök",
+        "maximize-dock": "Maximera",
+        "minimize-dock": "Minimera",
+        "rename-segment": "Byt namn på segment",
+        "events": "Händelser",
+        "attributes": "Attribut",
+        "custom-attributes": "Anpassade attribut",
+        "attribute-properties": "Attributegenskaper",
+        "and": "och",
+        "is": "är",
+        "select-a-reward": "välj en belöning",
+        "Contains": "Innehåller",
+        "EqualsTo": "Är lika med",
+        "NotEqualsTo": "Är inte lika med",
+        "Has": "Har",
+        "HasNot": "Har inte",
+        "GreaterThanOrEqualsTo": "Större än eller lika med",
+        "LessThanOrEqualsTo": "Mindre än eller lika med",
+        "StartsWith": "Börjar med",
+        "EndsWith": "Slutar med",
+        "Between": "Mellan",
+        "Exists": "Existerar",
+        "False": "Existerar inte",
+        "Before": "Före",
+        "After": "Efter",
+        "LessThan": "Mindre än",
+        "GreaterThan": "Större än",
+        "Today": "Idag"
+      },
+      "item-settings": {
+        "back-to-library": "Tillbaka till Bibliotek",
+        "btn-delete": "Radera från Grupp",
+        "btn-calculate": "Beräkna",
+        "segmented-profiles": "Segmenterade Profiler",
+        "segmented-profiles-tooltip": "Profiler som matchar de angivna kriterierna"
+      },
+      "items": {
+        "when": "När",
+        "how-often": "Hur ofta",
+        "filters": "Filter",
+        "remove": "Ta bort",
+        "duplicate": "Duplicera"
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "segments": {
+    "title-segments": "Segmenter",
+    "search-title": "Filtrer og find din målgruppe",
+    "search-placeholder": "Søg",
+    "btn-segment-builder": "Segmentbygger",
+    "btn-back-to-insights": "Tilbage",
+    "btn-back-to-segments": "Tilbage til Segment",
+    "btn-segment-edit": "Rediger Segment",
+    "btn-segment-delete": "Slet Segment",
+    "btn-view-profiles": "Vis Profiler",
+    "btn-calculate-profiles": "Beregn Profiler",
+    "segment-name": "Segmentnavn",
+    "created": "Oprettet",
+    "count-updated": "Antal profiler sidst opdateret",
+    "profiles": "Profiler",
+    "segment-page": {
+      "title": "Segmentoversigt",
+      "participants-dialog": {
+        "title": "Profiler i dette segment",
+        "id-header": "ID",
+        "firstname-header": "Fornavn",
+        "lastname-header": "Efternavn",
+        "created-header": "Oprettelsesdato",
+        "email-header": "E-mail",
+        "status-header": "Status"
+      }
+    },
+    "segment-builder": {
+      "id": "ID",
+      "title-segment-builder": "Segmentnavn",
+      "btn-save": "Gem",
+      "btn-rename": "Omdøb",
+      "btn-cancel": "Annuller",
+      "btn-add-group": "Tilføj Gruppe",
+      "segmented-profiles": "Profiler",
+      "segmented-profiles-tooltip": "Profiler inkluderet i segmentet",
+      "group": "Gruppe",
+      "and": "Og",
+      "or": "Eller",
+      "undefined": "Udefineret",
+      "drop-here": "Slip her",
+      "delete-confirmation": {
+        "title": "Bekræft sletning",
+        "body": "Dette vil fjerne segmentet med navnet:",
+        "confirmation": "Er du sikker på, at du vil slette dette segment?",
+        "decline": "Annuller",
+        "confirm": "Slet"
+      },
+      "library": {
+        "library": "Bibliotek",
+        "search-placeholder": "Søg",
+        "maximize-dock": "Maksimer",
+        "minimize-dock": "Minimer",
+        "rename-segment": "Omdøb segment",
+        "events": "Begivenheder",
+        "attributes": "Attributter",
+        "custom-attributes": "Brugerdefinerede attributter",
+        "attribute-properties": "Attributegenskaber",
+        "and": "og",
+        "is": "er",
+        "select-a-reward": "vælg en reward",
+        "Contains": "Indeholder",
+        "EqualsTo": "Er lig med",
+        "NotEqualsTo": "Er ikke lig med",
+        "Has": "Har",
+        "HasNot": "Har ikke",
+        "GreaterThanOrEqualsTo": "Større end eller lig med",
+        "LessThanOrEqualsTo": "Mindre end eller lig med",
+        "StartsWith": "Begynder med",
+        "EndsWith": "Slutter med",
+        "Between": "Mellem",
+        "Exists": "Eksisterer",
+        "False": "Eksisterer ikke",
+        "Before": "Før",
+        "After": "Efter",
+        "LessThan": "Mindre end",
+        "GreaterThan": "Større end",
+        "Today": "I dag"
+      },
+      "item-settings": {
+        "back-to-library": "Tilbage til Biblioteket",
+        "btn-delete": "Slet fra Gruppe",
+        "btn-calculate": "Beregn",
+        "segmented-profiles": "Segmenterede Profiler",
+        "segmented-profiles-tooltip": "Profiler der matcher de angivne kriterier"
+      },
+      "items": {
+        "when": "Hvornår",
+        "how-often": "Hvor ofte",
+        "filters": "Filter",
+        "remove": "Fjern",
+        "duplicate": "Duplikér"
+      }
+    }
+  }
+}
